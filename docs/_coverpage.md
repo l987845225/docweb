@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![img-qZ6dXl8H-1637505148577](logo.png)
+![img-qZ6dXl8H-1637505148577](logo2.png)
 
 # docsify <small>3.5</small>
 
